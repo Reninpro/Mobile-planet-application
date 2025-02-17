@@ -1,6 +1,6 @@
-# myapp
+# Mobile planet application
 
-A new Flutter project.
+This is a CRUD applications with the main things being planets
 
 ## Getting Started
 
